@@ -2,6 +2,30 @@
 @import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800&display=swap');
+/* --- Site em Construção ---*/
+.box{
+    background-color: #fff;
+    width: 500px;
+    margin: 50px auto;
+  }
+  #title {
+    font-size: 30px;
+    margin-top: 25px;
+  }
+  #descricao{
+    font-size:20px;
+    margin: 20px auto;
+  }
+  #logo {
+    margin-top: 25px;
+    max-width: 365px;
+    height: auto;
+  }
+  #logo-task {
+    width: 75px;
+  }
+
+/* --- Site em Construção ---*/
 
 body{
     margin:0;
